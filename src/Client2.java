@@ -7,7 +7,7 @@ import javax.imageio.ImageIO;
 public class Client2 {
     public static void main(String[] args) {
         try {
-            InetAddress addr = InetAddress.getLocalHost();
+            InetAddress addr = InetAddress.getByName("192.168.1.149");
             Socket socket = new Socket(addr, 2009);
             ObjectInputStream in = new ObjectInputStream(socket.getInputStream());
 
