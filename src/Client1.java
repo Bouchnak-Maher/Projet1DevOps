@@ -7,7 +7,7 @@ import javax.imageio.ImageIO;
 public class Client1 {
     public static void main(String[] args) {
         try {
-            InetAddress addr = InetAddress.getByName("192.168.1.151");
+            InetAddress addr = InetAddress.getByName("192.168.1.149");
             Socket socket = new Socket(addr, 2009);
             ObjectInputStream in = new ObjectInputStream(socket.getInputStream());
 
@@ -42,7 +42,7 @@ public class Client1 {
         BufferedImage filteredImage = new BufferedImage(width, height, BufferedImage.TYPE_INT_RGB);
 
         int kernelSize = 2; // Ajustez la taille du noyau selon vos besoins
-        double sigma = 1.5; // Ajustez l'écart-type du filtre gaussien
+        double sigma = 1.5; // Ajustez l'Ã©cart-type du filtre gaussien
 
         for (int y = 0; y < height; y++) {
             for (int x = 0; x < width; x++) {
