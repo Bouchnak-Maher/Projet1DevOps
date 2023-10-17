@@ -36,14 +36,6 @@ En résumé, le serveur divise une image en deux parties, envoie ces parties aux
 
 
 
-
-**Image avant et après le filtre**
-
-<div align="center">
-    <img src="https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/6a91ec82-290e-4afb-b96c-69394e439dc9" alt="Avant" width="45%" />
-    <img src="https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/a4d066f6-a0ec-4528-a439-390a50126411" alt="Après" width="45%" />
-</div>
-
 <div align="center">
     <img src="Result.png" alt="" width="100%" />
 </div>
