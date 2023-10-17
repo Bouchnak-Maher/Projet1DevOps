@@ -35,7 +35,7 @@ En résumé, le serveur divise une image en deux parties, envoie ces parties aux
 
 
 
-**Images avant et après le filtre**
+
 
 **Image avant et après le filtre**
 
