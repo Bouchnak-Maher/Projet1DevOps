@@ -33,12 +33,12 @@ En résumé, le serveur divise une image en deux parties, envoie ces parties aux
 
 **Image avant et aprés le filtre**
 
-*avant*
+**avant**
 
 ![washing](https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/6a91ec82-290e-4afb-b96c-69394e439dc9)
 
 
-*aprés*
+**aprés**
 
 
 ![filtered_image](https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/a4d066f6-a0ec-4528-a439-390a50126411)
