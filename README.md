@@ -45,7 +45,7 @@ En résumé, le serveur divise une image en deux parties, envoie ces parties aux
 </div>
 
 <div align="center">
-    <img src="Result.png" alt="" width="70%" />
+    <img src="Result.png" alt="" width="100%" />
 </div>
 
 
