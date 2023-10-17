@@ -29,3 +29,10 @@ Voici une description du fonctionnement du code du serveur et des deux clients :
 5. Le client ferme la connexion et les flux de données.
 
 En résumé, le serveur divise une image en deux parties, envoie ces parties aux deux clients, reçoit les parties filtrées de chaque client, les assemble en une image finale, et sauvegarde cette image. Les clients reçoivent leur partie d'image, appliquent un filtre gaussien à celle-ci, et renvoient la partie filtrée au serveur.
+
+**Image avant et aprés le filtre**
+*avant*
+![washing](https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/6a91ec82-290e-4afb-b96c-69394e439dc9)
+*aprés*
+![filtered_image](https://github.com/Bouchnak-Maher/Projet1DevOps/assets/94197705/a4d066f6-a0ec-4528-a439-390a50126411)
+
