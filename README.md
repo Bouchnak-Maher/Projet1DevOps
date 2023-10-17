@@ -1,4 +1,5 @@
 # Projet1DevOps
+Le filtre gaussien est un outil couramment utilisé en traitement d'images médicales, en vision par ordinateur, en photographie numérique, et en traitement d'images satellite pour réduire le bruit, adoucir les détails indésirables et améliorer la qualité visuelle des images. Cependant, en raison de sa complexité de calcul intensive, il nécessite des ressources de calcul significatives, notamment pour des images de haute résolution et des noyaux de grande taille. La complexité temporelle est quadratique par rapport à la taille du noyau et à la résolution de l'image. Des stratégies de réduction de la complexité peuvent être nécessaires pour optimiser les performances dans des environnements de calcul .
 Voici une description du fonctionnement du code du serveur et des deux clients :
 
 **Code du Serveur (`Serveur.java`)** :
