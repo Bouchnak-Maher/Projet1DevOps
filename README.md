@@ -1,4 +1,4 @@
-# Projet1DevOps
+# Projet1_DevOps
 Le filtre gaussien est un outil essentiel en traitement d'images, utilisé pour réduire le bruit, adoucir les détails indésirables, améliorer la qualité visuelle, réduire la taille des images et appliquer un effet de flou. Il est employé dans des domaines tels que la médecine, la vision par ordinateur, la photographie numérique et l'imagerie satellite. Toutefois, en raison de sa complexité de calcul intensive, il peut nécessiter des ressources significatives, surtout pour les images de haute résolution et les noyaux de grande taille. Des stratégies de réduction de la complexité peuvent être requises pour optimiser les performances dans des environnements de calcul .
 
 Voici une description du fonctionnement du code du serveur et des deux clients :
